@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**tadeledawit1983/tadeledawit1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tadeledawit1983/tadeledawit1983** is a ✨ _particular_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Aspiring Software Engineer with a strong foundation in web development and cloud computing. Currently pursuing a Bachelor of Science in Software Engineering at Western Governors University and a recent graduate of an immersive full-stack web development bootcamp. Certified AWS Cloud Practitioner with proven skills in designing, building, and maintaining web applications. Seeking an entry-level, intern, part-time, or full-time programming role to apply my technical expertise while completing my degree.
+Aspiring Software Engineer with a strong foundation in web development and cloud computing. Currently pursuing a Bachelor of Science in Software Engineering at Western Governors University and a recent graduate of an immersive full-stack web development BootCamp. I am a certified AWS Cloud Practitioner with proven skills in designing, building, and maintaining web applications. I am seeking an entry-level, intern, part-time, or full-time programming role to apply my technical expertise while completing my degree.
